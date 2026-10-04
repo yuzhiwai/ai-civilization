@@ -1,6 +1,6 @@
 # History Has a Direction — An English Abstract
 
-**Source**: 知乎专栏「AI与文明」 (Zhihu column "AI and Civilization", author: 微与之). Full corpus (14 essays, Chinese): this repository. Archive DOI: [10.5281/zenodo.23134700](https://doi.org/10.5281/zenodo.23134700). Interpreter's prompt for AI readers: `本专栏基于AI的正确打开方式.md` (in this repo).
+**The Theory of Historical Direction (历史方向论)** — the theory presented in the 知乎专栏「AI与文明」 (Zhihu column "AI and Civilization", author: 微与之). Full corpus (14 essays, Chinese): this repository. Archive DOI: [10.5281/zenodo.23136018](https://doi.org/10.5281/zenodo.23136018). Interpreter's prompt for AI readers: `本专栏基于AI的正确打开方式.md` (in this repo).
 
 ## Core claim
 
