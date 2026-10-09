@@ -45,7 +45,8 @@ CC BY 4.0 —— 署名即可自由转载、引用、改编。
 
 ## 链接
 
-- 知乎专栏：「AI与文明」（知乎搜索 微与之）
+- 知乎专栏「AI与文明」：[知乎搜索"微与之"](https://www.zhihu.com/search?type=content&q=%E5%BE%AE%E4%B8%8E%E4%B9%8B)（作者：微与之）
+- Coze 解释者智能体：[历史方向论解释器](https://www.coze.cn/store/agent/7692754441409200128)（挂载全本文集，可对话提问）
 - Zenodo 存档（主 DOI，随GitHub Release自动更新版本）：[10.5281/zenodo.23136018](https://doi.org/10.5281/zenodo.23136018)
 - 初版手动存档（v1.0）：[10.5281/zenodo.23134700](https://doi.org/10.5281/zenodo.23134700)
 - 镜像目的：知乎对外部检索封闭，此仓库为可爬取镜像，内容与知乎发布版保持一致；冲突时以知乎最新发布版为准。
