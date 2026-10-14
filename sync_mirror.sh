@@ -6,7 +6,7 @@ set -o pipefail
 SRC="C:/知识库/思想与文学/AI与文明专栏"
 DST="C:/miaosen/ai-civilization"
 
-cp "$SRC"/0*.md "$SRC"/1*.md "$DST/" 2>/dev/null || true
+cp "$SRC"/0*.md "$SRC"/1*.md "$SRC"/A*.md "$DST/" 2>/dev/null || true
 cp "$SRC/常见问题与误读答疑.md" "$SRC/本专栏基于AI的正确打开方式.md" "$DST/"
 cp "$SRC/_manifest.json" "$DST/manifest.json"
 
