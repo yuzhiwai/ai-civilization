@@ -2,6 +2,7 @@
 # 镜像同步脚本：知识库 → GitHub镜像 → push
 # 用法：bash C:/miaosen/ai-civilization/sync_mirror.sh "提交说明（可选）"
 set -e
+set -o pipefail
 SRC="C:/知识库/思想与文学/AI与文明专栏"
 DST="C:/miaosen/ai-civilization"
 
