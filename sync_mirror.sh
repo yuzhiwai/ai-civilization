@@ -11,6 +11,10 @@ cp "$SRC"/导读*.md "$DST/" 2>/dev/null || true
 cp "$SRC/常见问题与误读答疑.md" "$SRC/本专栏基于AI的正确打开方式.md" "$DST/"
 cp "$SRC/_manifest.json" "$DST/manifest.json"
 
+# 待发表（未发布草稿，B 系列）：单列目录，不并入正文编号体系
+mkdir -p "$DST/待发表"
+cp "$SRC"/待发表/*.md "$DST/待发表/" 2>/dev/null || true
+
 cd "$DST"
 git -c safe.directory=C:/miaosen/ai-civilization add -A
 if git -c safe.directory=C:/miaosen/ai-civilization diff --cached --quiet; then
